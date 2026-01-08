@@ -46,11 +46,13 @@ Checkout Flow (Shipping, Payment, Place Order)
 Admin Product Management
 
 How to Run
-Backend
+
+Backend:
 npm install
 npm start
 
-Frontend
+Frontend:
+
 cd frontend
 npm install
 npm start
